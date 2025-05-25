@@ -1,0 +1,23 @@
+.navbar ul{
+  list-style-type:none;
+   padding: 0px;
+
+   
+  
+}
+
+.navbar a{
+  padding: 15px;
+  display: block;
+  text-decoration: none;
+  background-color: rgb(97, 154, 154);
+  float: left;
+  color: aliceblue;
+
+  
+  
+}
+
+.navbar a:hover{
+  background-color: blue;
+}
