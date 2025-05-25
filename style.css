@@ -21,3 +21,8 @@
 .navbar a:hover{
   background-color: blue;
 }
+
+.navbar{
+  background-color:rgb(97, 154, 154);
+  height: 50px;
+}
